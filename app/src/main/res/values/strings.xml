@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">personApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_add">新增</string>
+    <string name="menu_del">删除</string>
+    <string name="menu_edit">修改</string>
+</resources>
